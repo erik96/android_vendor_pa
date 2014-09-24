@@ -14,6 +14,7 @@ add_lunch_combo pa_find5-userdebug
 add_lunch_combo pa_find7-userdebug
 add_lunch_combo pa_find7u-userdebug
 add_lunch_combo pa_galaxysmtd-userdebug
+add_lunch_combo pa_ariesve-userdebug
 add_lunch_combo pa_gee-userdebug
 add_lunch_combo pa_geeb-userdebug
 add_lunch_combo pa_hercules-userdebug
